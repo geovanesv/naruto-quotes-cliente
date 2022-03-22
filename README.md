@@ -1,5 +1,5 @@
 # Naruto Quotes Client
-Naruto quotes generator client for DIO lesson.
+Naruto quotes generator client.
 
 ![screenshot](screenshot.png?raw=true "screenshot")
 
